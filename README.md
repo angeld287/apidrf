@@ -31,5 +31,6 @@ System dependencies
   
   10- python manage.py runserver
   
+  ![](https://github.com/angeld287/apidrf/blob/master/img/1.png)  
   
 
