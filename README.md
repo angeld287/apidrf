@@ -2,13 +2,18 @@
 
 Django Rest Framework
 
-Things you may want to cover:
+Esto es un ejemplo de servicio Rest en Django creado desde la pagina oficial http://www.django-rest-framework.org/#installation. El ejemplo se desarrollo en un ambiente de linux, a continuacion se describen las dependencias y los pasos de configuracion:
 
-Python version: python2.7
+1- Python version: python2.7
 
-System dependencies
-1- python pip: sudo apt install python-pip
-2- virtualenv: pip install virtualenv
+2- System dependencies
+    python pip: 
+
+      sudo apt install python-pip
+
+    virtualenv: 
+
+      pip install virtualenv
 
   Configuration
   
